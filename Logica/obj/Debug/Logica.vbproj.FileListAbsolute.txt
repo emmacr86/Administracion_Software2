@@ -1,0 +1,48 @@
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 4\ProyectoFinal\Final\Logica\bin\Debug\Logica.dll
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 4\ProyectoFinal\Final\Logica\bin\Debug\Logica.pdb
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 4\ProyectoFinal\Final\Logica\bin\Debug\Logica.xml
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 4\ProyectoFinal\Final\Logica\bin\Debug\Datos.dll
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 4\ProyectoFinal\Final\Logica\bin\Debug\Datos.pdb
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 4\ProyectoFinal\Final\Logica\bin\Debug\Datos.xml
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 4\ProyectoFinal\Final\Logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 4\ProyectoFinal\Final\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 4\ProyectoFinal\Final\Logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 4\ProyectoFinal\Final\Logica\obj\Debug\Logica.dll
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 4\ProyectoFinal\Final\Logica\obj\Debug\Logica.xml
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 4\ProyectoFinal\Final\Logica\obj\Debug\Logica.pdb
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\bin\Debug\Logica.dll
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\bin\Debug\Logica.pdb
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\bin\Debug\Logica.xml
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\bin\Debug\Datos.dll
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\bin\Debug\Datos.pdb
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\bin\Debug\Datos.xml
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\obj\Debug\Logica.dll
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\obj\Debug\Logica.xml
+C:\Users\cchacon2\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\obj\Debug\Logica.pdb
+C:\Users\Carlos\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\bin\Debug\Logica.dll
+C:\Users\Carlos\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\bin\Debug\Logica.pdb
+C:\Users\Carlos\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\bin\Debug\Logica.xml
+C:\Users\Carlos\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\bin\Debug\Datos.dll
+C:\Users\Carlos\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\bin\Debug\Datos.pdb
+C:\Users\Carlos\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\bin\Debug\Datos.xml
+C:\Users\Carlos\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\Carlos\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\Carlos\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\Carlos\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\obj\Debug\Logica.dll
+C:\Users\Carlos\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\obj\Debug\Logica.xml
+C:\Users\Carlos\OneDrive - DXC Production\Universidad\Progra4\ProyectoFinal\Final\Logica\obj\Debug\Logica.pdb
+C:\Users\jei03\Desktop\Final\Logica\bin\Debug\Logica.dll
+C:\Users\jei03\Desktop\Final\Logica\bin\Debug\Logica.pdb
+C:\Users\jei03\Desktop\Final\Logica\bin\Debug\Logica.xml
+C:\Users\jei03\Desktop\Final\Logica\bin\Debug\Datos.dll
+C:\Users\jei03\Desktop\Final\Logica\bin\Debug\Datos.pdb
+C:\Users\jei03\Desktop\Final\Logica\bin\Debug\Datos.xml
+C:\Users\jei03\Desktop\Final\Logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\jei03\Desktop\Final\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\jei03\Desktop\Final\Logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\jei03\Desktop\Final\Logica\obj\Debug\Logica.dll
+C:\Users\jei03\Desktop\Final\Logica\obj\Debug\Logica.xml
+C:\Users\jei03\Desktop\Final\Logica\obj\Debug\Logica.pdb
